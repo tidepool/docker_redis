@@ -1,0 +1,1 @@
+docker run -rm -P --name redis keremk/redis_dev
